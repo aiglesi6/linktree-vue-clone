@@ -12,7 +12,7 @@ const profile = ref({
 <template>
   <main class="flex min-h-screen flex-col items-center justify-center px-4 py-8">
     <!-- Profile Header -->
-    <div class="mb-8 flex-col items-center text-center">
+    <div class="mb-8 flex flex-col items-center text-center">
       <div
         class="mb-4 h-24 w-24 overflow-hidden rounded-full border-4 border-green-400 shadow-lg shadow-green-500/20 sm:h-32 sm:w-32"
       >
