@@ -35,6 +35,20 @@ const profile = ref({
       icon: 'dollar',
       description: 'Source code for Vue application',
     },
+    {
+      id: 5,
+      title: 'Anime Roulette',
+      url: 'https://anime-roulette-watchlist.aiglesi6.workers.dev',
+      icon: 'film',
+      description: 'Find your new binge series',
+    },
+    {
+      id: 6,
+      title: 'Anime Roulette Watchlist - GitHub',
+      url: 'https://github.com/aiglesi6/anime-roulette-watchlist',
+      icon: 'film',
+      description: 'Source code for Vue application',
+    },
   ],
 })
 </script>
